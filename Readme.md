@@ -1,5 +1,5 @@
 <a href="https://marcola.cc">
-	<img src="https://images-ext-2.discordapp.net/external/ttqGOq76WA1fBBqtBZJ_L81gOLBMq97osIDG0Scu4Kk/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/991329228509421598/37548d3a5fda6977b2ca32e1ddea6485.png">
+
 </a>
 
 <p align="center">
