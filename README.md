@@ -4,7 +4,7 @@ dev & seller
 <div>
   <a href="https://github.com/m4rcola">
 <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/991329228509421598?hideTimestamp=true&hideBadges=true"/>
+	<img src="https://lanyard-profile-readme.vercel.app/api/1070494524079624252?hideTimestamp=true&hideBadges=true"/>
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rcola&locale=pt-br&theme=dark&hide_border=true">
 	<br>
