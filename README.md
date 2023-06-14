@@ -1,7 +1,7 @@
 **I'm Marcola**  
 dev & seller
 
-<img src="https://github.com/barbecue/barbecue/blob/master/media/banner.png?raw=true">
+
 <p align="center">
    <a href="https://discord.com/users/1070494524079624252" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://instagram.com/maiorscammer" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
