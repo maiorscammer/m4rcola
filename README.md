@@ -10,7 +10,7 @@ dev & seller
 </p>
 <div align="center">
    <a href="https://discord.com/users/1070494524079624252" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/1070494524079624252?bg=111111">
+      <img src="https://lanyard.cnrad.dev/api/1070494524079624252?bg=111111&hideDiscrim=true">
    </a>
 </div>
 
