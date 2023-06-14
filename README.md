@@ -1,18 +1,17 @@
 **I'm Marcola**  
 dev & seller
 
-<div>
-  <a href="https://github.com/m4rcola">
-<p align="center"> 
-	<img src="https://lanyard-profile-readme.vercel.app/api/1070494524079624252?hideTimestamp=true&hideBadges=false&borderRadius=:radius&hideDiscrim=true"/>
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcola&layout=compact&locale=pt-br&count_private=true&langs_count=8&hide_border=true&theme=dark"> -->
-
-	
+<img src="https://github.com/barbecue/barbecue/blob/master/media/banner.png?raw=true">
+<p align="center">
+   <a href="https://discord.com/users/1070494524079624252" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://instagram.com/maiorscammer" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://github.com/m4rcola" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href="https://twitter.com/maiorscammer" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-      <div style="display: inline_block"><br>
-        <img align="center" alt="Zac-Js" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=97&color=currentColor">
-        <img align="center" alt="Zac-Python" height="40" width="50" src="https://icongr.am/devicon/python-original.svg?size=97&color=currentColor"> 
-        <img align="center" alt="Zac-PHP" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=97&color=currentColor">
-     </div>
-      <hr>
+<div align="center">
+   <a href="https://discord.com/users/1070494524079624252" target="_blank">
+      <img src="https://lanyard.cnrad.dev/api/1070494524079624252?bg=111111">
+   </a>
+</div>
+
+
