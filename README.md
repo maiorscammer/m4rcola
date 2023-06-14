@@ -3,9 +3,9 @@ dev & seller
 
 <div>
   <a href="https://github.com/m4rcola">
-<p align="center">
+<p align="center"> 
 	<img src="https://lanyard-profile-readme.vercel.app/api/1070494524079624252?hideTimestamp=true&hideBadges=true"/>
-<!-- 	<br>
+	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=m4rcola&locale=pt-br&theme=dark&hide_border=true">
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=m4rcola&include_all_commits=true&show_icons=true&locale=pt-br&hide_border=true&hide_title=true&count_private=true&theme=dark">
